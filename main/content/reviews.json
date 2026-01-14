@@ -1,1 +1,14 @@
+{
+  "updatedAt": "2026-01-14",
+  "items": [
+    {
+      "id": "valo8",
+      "title": "VALO-8 (8-bit Aim Duel)",
+      "summary": "A retro aim duel game. Quick reaction + precision.",
+      "tags": ["aim", "8-bit", "reaction"],
+      "href": "/mini-games/valo-8",
+      "image": "https://gamespeedcheck.com/game_speed_check_favicon.png"
+    }
+  ]
+}
 
