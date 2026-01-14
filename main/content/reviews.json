@@ -3,12 +3,23 @@
   "items": [
     {
       "id": "valo8",
-      "title": "VALO-8 (8-bit Aim Duel)",
-      "summary": "A retro aim duel game. Quick reaction + precision.",
       "tags": ["aim", "8-bit", "reaction"],
       "href": "/mini-games/valo-8",
-      "image": "https://gamespeedcheck.com/game_speed_check_favicon.png"
+      "image": "https://gamespeedcheck.com/game_speed_check_favicon.png",
+      "i18n": {
+        "en": {
+          "title": "VALO-8 (8-bit Aim Duel)",
+          "summary": "A retro aim duel game. Quick reaction + precision."
+        },
+        "th": {
+          "title": "VALO-8 (ดวลเล็งแบบ 8-bit)",
+          "summary": "มินิเกมดวลเล็งสไตล์เรโทร เน้นปฏิกิริยาไว + ความแม่นยำ"
+        },
+        "jp": {
+          "title": "VALO-8（8ビット・エイムデュエル）",
+          "summary": "レトロなエイム対決ゲーム。素早い反応と正確さが鍵。"
+        }
+      }
     }
   ]
 }
-
