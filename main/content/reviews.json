@@ -9,15 +9,36 @@
       "i18n": {
         "en": {
           "title": "VALO-8 (8-bit Aim Duel)",
-          "summary": "A retro aim duel game. Quick reaction + precision."
+          "summary": "A retro aim duel game focused on quick reaction and precision. Ideal for warming up aim and testing reflex speed."
         },
         "th": {
           "title": "VALO-8 (ดวลเล็งแบบ 8-bit)",
-          "summary": "มินิเกมดวลเล็งสไตล์เรโทร เน้นปฏิกิริยาไว + ความแม่นยำ"
+          "summary": "มินิเกมดวลเล็งสไตล์เรโทร เน้นความไวในการตอบสนองและความแม่นยำ เหมาะสำหรับวอร์มอัปฝีมือการเล็ง"
         },
         "jp": {
           "title": "VALO-8（8ビット・エイムデュエル）",
-          "summary": "レトロなエイム対決ゲーム。素早い反応と正確さが鍵。"
+          "summary": "反応速度と正確さを鍛えるレトロスタイルのエイム対決ミニゲーム。"
+        }
+      }
+    },
+
+    {
+      "id": "intel-panther-lake-handheld",
+      "tags": ["hardware", "gaming handheld", "Intel", "CPU", "CES"],
+      "href": "https://www.techradar.com/computing/cpu/we-might-see-a-successor-to-the-msi-claw-8-ai-soon-as-intel-promises-plenty-of-gaming-handhelds-with-panther-lake-cpus",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q8SiFCBUeRmW6zALKHtGRn-1200-80.jpg",
+      "i18n": {
+        "en": {
+          "title": "Intel Signals a New Wave of Gaming Handhelds with Panther Lake CPUs",
+          "summary": "Intel confirms plans to push next-generation gaming handheld PCs powered by Panther Lake CPUs. Improved performance, stronger integrated graphics, and better power efficiency could lead to successors of devices like the MSI Claw series in 2026."
+        },
+        "th": {
+          "title": "Intel ส่งสัญญาณเครื่องเกมพกพายุคใหม่ด้วยชิป Panther Lake",
+          "summary": "Intel เผยทิศทางการรุกตลาดเครื่องเกมพกพา ด้วยซีพียู Panther Lake รุ่นใหม่ที่เน้นประสิทธิภาพ กราฟิกออนบอร์ดที่แรงขึ้น และการจัดการพลังงานที่ดีขึ้น ซึ่งอาจนำไปสู่รุ่นต่อจาก MSI Claw ในอนาคตอันใกล้"
+        },
+        "jp": {
+          "title": "Intel、Panther Lake搭載の次世代ゲーム用ハンドヘルドを示唆",
+          "summary": "IntelはPanther Lake CPUを採用した次世代ゲーム向けハンドヘルドPCの展開を示唆。性能と省電力性の向上により、MSI Clawシリーズの後継機登場も期待されています。"
         }
       }
     }
