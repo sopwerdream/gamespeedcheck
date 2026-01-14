@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-01-14",
+  "featured": {
+    "id": "aim-test-webgl",
+    "title": "Aim Test (WebGL)",
+    "summary": "Practice flick shots & precision. Track score, accuracy, and time.",
+    "badge": "NEW",
+    "href": "https://sopwerdream.github.io/gamespeedcheck-mini/aim-test/",
+    "coverImage": "https://raw.githubusercontent.com/sopwerdream/gamespeedcheck/main/main/assets/minigames/aim-test-cover.png"
+  }
+}
