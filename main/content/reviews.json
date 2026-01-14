@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-01-15",
   "items": [
-    {
+      {
       "id": "intel-panther-lake-handheld",
       "tags": ["hardware", "gaming handheld", "Intel", "CPU", "CES"],
       "href": "https://www.techradar.com/computing/cpu/we-might-see-a-successor-to-the-msi-claw-8-ai-soon-as-intel-promises-plenty-of-gaming-handhelds-with-panther-lake-cpus",
@@ -60,26 +60,26 @@
           "summary": "協力プレイに対応したオープンワールド型サバイバルRPG『Echoes of Elysium』が早期アクセスを開始しました。"
         }
       }
-     },
+    }},
     {
-  "id": "warner-bros-reject-paramount-bid",
-  "tags": ["business", "acquisition", "Hollywood", "Warner Bros", "Paramount"],
-  "href": "https://gigazine.net/news/20260108-warner-bros-reject-revised-paramaount-bid/",
-  "image": "https://gigazine.net/img/news/2026/01/08/warner_paramount_reject.jpg",
-  "i18n": {
-    "en": {
-      "title": "Warner Bros Discovery Rejects Paramount’s Revised Takeover Bid",
-      "summary": "Warner Bros Discovery’s board unanimously rejected Paramount Skydance’s revised $108.4 billion hostile takeover bid, calling it a risky leveraged buyout and reaffirming the company’s commitment to its deal with Netflix."
-    },
-    "th": {
-      "title": "Warner Bros Discovery ปฏิเสธข้อเสนอเข้าซื้อจาก Paramount",
-      "summary": "บอร์ดของ Warner Bros Discovery ปฏิเสธข้อเสนอเข้าซื้อกิจการแบบเป็นศัตรูของ Paramount Skydance มูลค่า 108.4 พันล้านดอลลาร์ โดยระบุว่ามีความเสี่ยงสูงและยืนยันว่ายังยึดมั่นในข้อตกลงกับ Netflix."
-    },
-    "jp": {
-      "title": "ワーナー・ブラザースがパラマウントの買収提案を拒否",
-      "summary": "Warner Bros Discoveryの取締役会は、Paramount Skydanceの1084億ドルの買収提案をリスクが高いとして全会一致で拒否し、Netflixとの合併契約を支持しました。"
+      "id": "warner-bros-reject-paramount-bid",
+      "tags": ["business", "acquisition", "Hollywood", "Warner Bros", "Paramount"],
+      "href": "https://gigazine.net/news/20260108-warner-bros-reject-revised-paramaount-bid/",
+      "image": "https://gigazine.net/img/news/2026/01/08/warner_paramount_reject.jpg",
+      "i18n": {
+        "en": {
+          "title": "Warner Bros Discovery Rejects Paramount’s Revised Takeover Bid",
+          "summary": "Warner Bros Discovery’s board unanimously rejected Paramount Skydance’s revised $108.4 billion hostile takeover bid, calling it a risky leveraged buyout and reaffirming the company’s commitment to its deal with Netflix."
+        },
+        "th": {
+          "title": "Warner Bros Discovery ปฏิเสธข้อเสนอเข้าซื้อจาก Paramount",
+          "summary": "บอร์ดของ Warner Bros Discovery ปฏิเสธข้อเสนอเข้าซื้อกิจการแบบเป็นศัตรูของ Paramount Skydance มูลค่า 108.4 พันล้านดอลลาร์ โดยระบุว่ามีความเสี่ยงสูงและยืนยันว่ายังยึดมั่นในข้อตกลงกับ Netflix."
+        },
+        "jp": {
+          "title": "ワーナー・ブラザースがパラマウントの買収提案を拒否",
+          "summary": "Warner Bros Discoveryの取締役会は、Paramount Skydanceの1084億ドルの買収提案をリスクが高いとして全会一致で拒否し、Netflixとの合併契約を支持しました。"
+        }
+      }
     }
-  }
-}
- } 
+  ]
 }
