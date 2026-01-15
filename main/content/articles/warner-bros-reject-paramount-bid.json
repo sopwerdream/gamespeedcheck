@@ -9,19 +9,71 @@
   ],
   "inline": [
     { "after": 1, "type": "gallery" },
-    { "after": 3, "type": "image", "src": "https://raw.githubusercontent.com/sopwerdream/gamespeedcheck/main/main/assets/articles/warner/2.png", "caption": "Market reactions can ripple into licensing." }
+    { "after": 3, "type": "image", "src": "https://raw.githubusercontent.com/sopwerdream/gamespeedcheck/dea2a7e0c5491e1fac33c6490fe95cbef1674f71/main/content/articles/warner/2.png", "caption": "Market reactions can ripple into licensing." }
   ],
-  "source": { "name": "GIGAZINE", "href": "https://gigazine.net/news/20260108-warner-bros-reject-revised-paramaount-bid/" },
+  "source": { "name": "gamespeedcheck.", "href": "https://gamespeedcheck.com/reviews" },
   "tags": ["Business", "Media", "Industry", "Streaming"],
-  "i18n": {
-    "en": {
-      "title": "Warner rejects a revised bid—what it could signal",
-      "body": [
-        "Paragraph 1...",
-        "Paragraph 2...",
-        "Paragraph 3...",
-        "Paragraph 4..."
-      ]
-    }
+"i18n": {
+  "en": {
+    "title": "Warner rejects a revised Paramount bid, sticks with Netflix",
+    "summary": "Warner Bros. Discovery turned down Paramount’s revised offer, pointing to deal risk and financial structure concerns, and reaffirmed its current strategic path tied to Netflix.",
+    "body": [
+      "Warner Bros. Discovery has rejected a revised takeover proposal from Paramount, signaling that the board is prioritizing certainty and strategic continuity over a higher-stakes alternative. The decision reinforces a clear message to investors: stability and execution matter as much as headline price in today’s media market.",
+      "People familiar with the discussions said the revised bid raised concerns around financing structure and post-deal flexibility. Warner’s leadership appears focused on lowering integration risk and maintaining room to maneuver—especially as the industry navigates uneven ad demand, shifting subscriber growth, and increasing content costs.",
+      "The move also reflects a wider industry reality: scale alone is no longer a guarantee of success. Streaming economics, licensing optionality, and disciplined spending have become central to valuations, pushing boards to favor deals that minimize downside scenarios rather than maximize theoretical upside.",
+      "For the market, the rejection may influence future negotiations across partnerships, rights deals, and consolidation attempts. Whether Paramount escalates further or pivots elsewhere, Warner’s stance suggests the next chapter of media M&A will be driven by structure, certainty, and long-term sustainability."
+    ]
+  },
+  "th": {
+    "title": "วอร์เนอร์ปฏิเสธข้อเสนอใหม่จากพาราเมาท์ ยืนยันเดินหน้าตามแผนร่วมกับเน็ตฟลิกซ์",
+    "summary": "Warner Bros. Discovery ปฏิเสธข้อเสนอเทกโอเวอร์ฉบับปรับปรุงจาก Paramount โดยชี้ความเสี่ยงด้านโครงสร้างดีลและการเงิน พร้อมย้ำว่าจะเดินหน้าตามกลยุทธ์เดิมที่ผูกกับ Netflix ต่อไป",
+    "body": [
+      "Warner Bros. Discovery ปฏิเสธข้อเสนอซื้อกิจการฉบับปรับปรุงจาก Paramount สะท้อนว่าบอร์ดให้ความสำคัญกับ “ความแน่นอน” และ “การทำงานต่อเนื่องของกลยุทธ์” มากกว่าดีลที่มีความเสี่ยงสูงกว่า การตัดสินใจนี้ส่งสัญญาณชัดว่าราคาไม่ใช่ปัจจัยเดียว—ความสามารถในการปิดดีลและการบริหารหลังดีลก็สำคัญไม่แพ้กัน",
+      "แหล่งข่าวที่ใกล้ชิดระบุว่าประเด็นหลักคือความกังวลเรื่องโครงสร้างการเงินและความยืดหยุ่นหลังดีล ซึ่งอาจส่งผลต่อภาระหนี้และความคล่องตัวในการลงทุน Warner จึงเลือกแนวทางที่ลดความเสี่ยงของการรวมกิจการ โดยเฉพาะในช่วงที่อุตสาหกรรมกำลังเผชิญแรงกดดันจากโฆษณาที่ผันผวน การเติบโตของสมาชิกที่ไม่สม่ำเสมอ และต้นทุนคอนเทนต์ที่สูงขึ้น",
+      "ภาพรวมอุตสาหกรรมก็เปลี่ยนไปมาก: “ขนาด” ไม่ได้แปลว่า “ชนะ” เสมอไป เศรษฐศาสตร์ของสตรีมมิง การบริหารสิทธิ์ (licensing) และวินัยด้านงบประมาณ กลายเป็นตัวชี้วัดสำคัญในการประเมินมูลค่า ทำให้บอร์ดจำนวนมากเลือกดีลที่ควบคุมความเสี่ยงได้ดีกว่า มากกว่าดีลที่หวังผลตอบแทนเชิงทฤษฎีสูงสุด",
+      "ในมุมตลาด การปฏิเสธครั้งนี้อาจกระทบการเจรจาพันธมิตร การทำสัญญาสิทธิ์ และทิศทางการควบรวมกิจการในระยะถัดไป ไม่ว่า Paramount จะยกระดับเกมต่อหรือหันไปเป้าหมายอื่น จุดยืนของ Warner ชี้ว่า M&A รอบถัดไปจะถูกขับเคลื่อนด้วย “โครงสร้างดีล + ความแน่นอน + ความยั่งยืนระยะยาว” มากขึ้น"
+    ]
+  },
+  "jp": {
+    "title": "ワーナー、パラマウントの修正提案を拒否　ネットフリックス路線を継続",
+    "summary": "ワーナー・ブラザース・ディスカバリーは、取引構造と財務リスクへの懸念からパラマウントの修正買収提案を退け、ネットフリックスと結びつく現行戦略を維持する姿勢を示した。",
+    "body": [
+      "ワーナー・ブラザース・ディスカバリーはパラマウントの修正提案を拒否し、より確実性の高い道を選んだ。投資家に対しては、名目上の価格だけでなく、実行可能性と戦略の継続性が同じくらい重要だというメッセージとなる。",
+      "関係者によれば、資金調達の構造や買収後の柔軟性に疑問が残ったという。広告需要の変動、加入者成長の鈍化、コンテンツコスト上昇など、業界の逆風が続く中、経営陣は統合リスクを抑える判断を優先した。",
+      "また今回の決定は、規模拡大だけでは成功を保証しないという業界の現実も映し出す。ストリーミングの採算性、ライセンス戦略、支出規律が評価の中心となり、下振れリスクを抑える取引が重視されやすい。",
+      "市場では、今後の提携交渉や権利取引、業界再編の動きにも影響が及ぶ可能性がある。パラマウントが攻勢を強めるか別の方向へ動くかにかかわらず、次のM&Aは「構造・確実性・持続性」が鍵になりそうだ。"
+    ]
+  },
+  "es": {
+    "title": "Warner rechaza la oferta revisada de Paramount y mantiene su rumbo con Netflix",
+    "summary": "Warner Bros. Discovery rechazó la propuesta revisada de Paramount por riesgos financieros y dudas sobre la estructura del acuerdo, y reafirmó su estrategia actual vinculada a Netflix.",
+    "body": [
+      "Warner Bros. Discovery ha rechazado la oferta de adquisición revisada de Paramount, priorizando la certeza y la continuidad estratégica. La decisión subraya que, en el entorno actual de medios, la capacidad de ejecutar un acuerdo pesa tanto como el precio anunciado.",
+      "Fuentes cercanas señalan preocupaciones sobre la financiación y la flexibilidad posterior a la operación. Con un mercado marcado por publicidad volátil, crecimiento irregular de suscriptores y costos de contenido en aumento, la compañía parece enfocada en reducir riesgos de integración.",
+      "El rechazo también refleja una tendencia más amplia: el tamaño por sí solo ya no garantiza éxito. La economía del streaming, la estrategia de licencias y la disciplina de gasto se han convertido en factores centrales para valorar este tipo de movimientos.",
+      "Para el mercado, la decisión podría influir en futuras negociaciones de alianzas, derechos y posibles consolidaciones. Si Paramount escala su campaña o cambia de objetivo, la señal es clara: la estructura del acuerdo y la sostenibilidad a largo plazo serán determinantes."
+    ]
+  },
+  "id": {
+    "title": "Warner menolak tawaran baru Paramount dan tetap memilih jalur bersama Netflix",
+    "summary": "Warner Bros. Discovery menolak penawaran akuisisi terbaru dari Paramount karena risiko finansial dan ketidakpastian struktur kesepakatan, serta menegaskan komitmennya pada strategi yang berjalan seiring Netflix.",
+    "body": [
+      "Warner Bros. Discovery menolak proposal akuisisi yang telah direvisi dari Paramount, menandakan bahwa kepastian dan kontinuitas strategi menjadi prioritas. Keputusan ini menunjukkan bahwa dalam industri media saat ini, eksekusi dan risiko sama pentingnya dengan nilai penawaran di atas kertas.",
+      "Sumber yang mengetahui pembahasan menyebutkan kekhawatiran terkait struktur pendanaan dan fleksibilitas pasca-transaksi. Di tengah permintaan iklan yang berfluktuasi, pertumbuhan pelanggan yang tidak merata, dan biaya konten yang terus naik, perusahaan tampak memilih jalur yang menekan risiko integrasi.",
+      "Langkah ini juga mencerminkan perubahan besar di industri: skala saja tidak lagi menjamin kemenangan. Ekonomi streaming, opsi lisensi, serta disiplin belanja kini menjadi faktor utama dalam penilaian dan strategi jangka panjang.",
+      "Bagi pasar, penolakan ini dapat berdampak pada negosiasi kemitraan, kesepakatan hak siar, dan upaya konsolidasi berikutnya. Apakah Paramount akan meningkatkan tekanan atau beralih, sinyalnya jelas: struktur yang sehat dan keberlanjutan jangka panjang akan semakin menentukan."
+    ]
+  },
+  "kr": {
+    "title": "워너, 파라마운트 수정 제안 거절… 넷플릭스 전략 유지",
+    "summary": "워너브라더스 디스커버리는 재무적 위험과 거래 구조의 불확실성을 이유로 파라마운트의 수정 인수 제안을 거절하고, 넷플릭스와 연계된 현 전략 노선을 재확인했다.",
+    "body": [
+      "워너브라더스 디스커버리는 파라마운트의 수정된 인수 제안을 거절하며, ‘더 높은 가격’보다 ‘확실성’과 ‘전략의 연속성’을 우선했다. 이는 현재 미디어 시장에서 제안 금액만큼이나 거래 성사 가능성과 실행 리스크가 중요하다는 신호로 해석된다.",
+      "관계자들은 자금 조달 구조와 인수 이후의 재무 유연성에 대한 우려가 주요 요인이라고 전했다. 광고 수요 변동, 구독자 성장 둔화, 콘텐츠 비용 상승이 이어지는 상황에서 워너는 통합 리스크를 낮추고 기동성을 확보하는 방향을 택한 것으로 보인다.",
+      "이번 결정은 업계 전반의 흐름도 보여준다. 규모 확대만으로는 더 이상 성공이 보장되지 않으며, 스트리밍 수익 구조, 라이선싱 옵션, 비용 통제가 기업 가치 평가의 핵심 요소로 떠올랐다.",
+      "시장에서는 이번 거절이 향후 파트너십 협상, 권리 계약, 추가적인 M&A 시도에 영향을 줄 수 있다고 본다. 파라마운트가 공세를 강화하든 다른 타깃으로 전환하든, 다음 미디어 M&A의 키워드는 ‘구조·확실성·장기 지속가능성’이 될 가능성이 크다."
+    ]
   }
+}
+
 }
