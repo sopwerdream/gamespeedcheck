@@ -1,1 +1,40 @@
+{
+  "id": "intel-pantherlake-handheld",
+  "updatedAt": "2026-01-15",
+  "coverImage": "https://cdn.mos.cms.futurecdn.net/Q8SiFCBUeRmW6zALKHtGRn-1200-80.jpg",
+  "source": {
+    "name": "TechRadar",
+    "href": "https://www.techradar.com/computing/cpu/we-might-see-a-successor-to-the-msi-claw-8-ai-soon-as-intel-promises-plenty-of-gaming-handhelds-with-panther-lake-cpus"
+  },
+  "tags": ["Hardware", "Handheld", "Intel", "CPU"],
+  "i18n": {
+    "en": {
+      "title": "Intel signals a new wave of gaming handhelds with Panther Lake",
+      "body": [
+        "Intel is hinting that more handheld gaming PCs are coming, and the next big step could be Panther Lake CPUs.",
+        "For handheld devices, efficiency matters as much as raw performance: better power behavior can mean smoother gaming at the same wattage, quieter fans, and longer battery life.",
+        "The most interesting angle is the integrated graphics potential. If the iGPU jump is meaningful, we may see stronger 1080p/720p handheld performance without relying on heavy upscaling.",
+        "What to watch next: partner announcements, real device thermals, and how Panther Lake compares in real games versus current handheld chips."
+      ]
+    },
+    "th": {
+      "title": "Intel ส่งสัญญาณเครื่องเกมพกพายุคใหม่ด้วย Panther Lake",
+      "body": [
+        "มีสัญญาณว่าเครื่องเกมพกพาแบบ PC จะมีรุ่นใหม่ออกมาเพิ่ม และ Panther Lake อาจเป็นหนึ่งในชิปสำคัญของคลื่นถัดไป",
+        "สำหรับ handheld เรื่อง “ประสิทธิภาพต่อวัตต์” สำคัญพอ ๆ กับความแรง: ถ้าคุมพลังงานได้ดีขึ้น จะได้เฟรมเรตนิ่งขึ้น เสียงพัดลมเบาลง และแบตอึดขึ้น",
+        "อีกจุดที่น่าจับตาคือ iGPU หากกระโดดจริง จะช่วยให้เล่น 720p/1080p ได้ดีขึ้นโดยไม่ต้องพึ่งการอัปสเกลหนักเกินไป",
+        "สิ่งที่ควรดูต่อคือประกาศจากแบรนด์พาร์ทเนอร์ ผลทดสอบอุณหภูมิจริง และประสิทธิภาพในเกมเทียบกับชิป handheld รุ่นปัจจุบัน"
+      ]
+    },
+    "jp": {
+      "title": "Intel、Panther Lakeで次世代ハンドヘルドの波を示唆",
+      "body": [
+        "Intelは、携帯ゲーミングPC（ハンドヘルド）が今後さらに増える可能性を示唆しており、その鍵の1つがPanther Lake CPUになりそうです。",
+        "携帯機では性能だけでなく電力効率が重要です。効率が良くなれば同じ消費電力でもフレームが安定し、ファン音や発熱、バッテリー持ちに直結します。",
+        "注目は内蔵GPUの伸びしろ。iGPUが大きく強化されれば、過度なアップスケーリングに頼らず720p/1080pでの体験が改善する可能性があります。",
+        "今後は各社の新機種発表、実機の温度・消費電力、そして現行のハンドヘルド向けチップとのゲーム性能比較が焦点です。"
+      ]
+    }
+  }
+}
 
