@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-01-15",
+  "items": [
+    {
+      "id": "hl-intel-pantherlake",
+      "articleId": "intel-pantherlake-handheld",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q8SiFCBUeRmW6zALKHtGRn-1200-80.jpg",
+      "tags": ["Hardware", "Handheld", "Intel"],
+      "i18n": {
+        "en": {
+          "title": "Intel signals a new wave of gaming handhelds",
+          "summary": "Panther Lake CPUs could power next-gen portable gaming PCs—better iGPU + efficiency."
+        },
+        "th": {
+          "title": "Intel ส่งสัญญาณเครื่องเกมพกพายุคใหม่",
+          "summary": "ชิป Panther Lake อาจเป็นหัวใจของ handheld รุ่นถัดไป เน้นแรงขึ้นและประหยัดพลังงาน"
+        },
+        "jp": {
+          "title": "Intel、次世代ハンドヘルドの波を示唆",
+          "summary": "Panther Lake搭載の携帯ゲーミングPCが増える可能性。iGPUと効率の進化が焦点。"
+        }
+      }
+    },
+    {
+      "id": "hl-cyberpunk-vhs",
+      "articleId": "cyberpunk-vhs-preset",
+      "image": "https://www.gamespark.jp/img/article/2026/01/15/161579/cyberpunk_vhs.jpg",
+      "tags": ["Mod", "Visual", "Cyberpunk 2077"],
+      "i18n": {
+        "en": { "title": "Cyberpunk 2077 gets a VHS-style preset", "summary": "A ReShade preset brings retro VHS vibes—grain, blur, and nostalgic color bleed." },
+        "th": { "title": "Cyberpunk 2077 ได้พรีเซ็ตภาพสไตล์ VHS", "summary": "ReShade preset ให้ฟีลเรโทรแบบเทป VHS ทั้ง grain/blur/สีไหล" },
+        "jp": { "title": "『サイバーパンク2077』VHS風プリセット", "summary": "ReShadeでVHS風の質感を再現。ノイズや色にじみでレトロ感を演出。" }
+      }
+    },
+    {
+      "id": "hl-warner-paramount",
+      "articleId": "warner-bros-reject-paramount-bid",
+      "image": "https://gigazine.net/gsc_news/en/20260108-warner-bros-reject-revised-paramaount-bid/thumbnail.png",
+      "tags": ["Business", "Media", "Industry"],
+      "i18n": {
+        "en": { "title": "Warner rejects a revised bid—what it signals", "summary": "A big media-business decision that could ripple into content pipelines and licensing." },
+        "th": { "title": "Warner ปฏิเสธข้อเสนอใหม่—กระทบอุตสาหกรรมยังไง", "summary": "ดีลใหญ่ในวงการสื่อที่อาจส่งผลต่อแนวทางคอนเทนต์/ลิขสิทธิ์ในอนาคต" },
+        "jp": { "title": "ワーナーが提案を拒否—業界への影響は", "summary": "大型ディールの判断が、配信・ライセンス戦略に波及する可能性。" }
+      }
+    }
+  ]
+}
