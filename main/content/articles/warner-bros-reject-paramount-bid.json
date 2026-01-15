@@ -1,0 +1,39 @@
+{
+  "id": "warner-bros-reject-paramount-bid",
+  "updatedAt": "2026-01-08",
+  "coverImage": "https://gigazine.net/gsc_news/en/20260108-warner-bros-reject-revised-paramaount-bid/thumbnail.png",
+  "source": {
+    "name": "GIGAZINE",
+    "href": "https://gigazine.net/news/20260108-warner-bros-reject-revised-paramaount-bid/"
+  },
+  "tags": ["Business", "Media", "Industry", "Streaming"],
+  "i18n": {
+    "en": {
+      "title": "Warner rejects a revised bid—what it could signal",
+      "body": [
+        "A reported rejection of a revised bid highlights how cautious major media companies can be when it comes to mergers and acquisitions.",
+        "These moves matter for games and tech indirectly: big ownership shifts can influence licensing deals, content distribution, and long-term roadmap decisions across entertainment pipelines.",
+        "Even without immediate changes, market reactions and follow-up negotiations often affect how studios plan releases, partnerships, and platform strategies.",
+        "For readers: watch for next steps—whether talks continue, how regulators respond, and what it could mean for catalog availability and licensing in the future."
+      ]
+    },
+    "th": {
+      "title": "Warner ปฏิเสธข้อเสนอใหม่—อาจสะท้อนอะไรต่อวงการ",
+      "body": [
+        "ข่าวการปฏิเสธข้อเสนอที่ปรับใหม่ สะท้อนว่าบริษัทสื่อขนาดใหญ่ระมัดระวังมากกับดีลควบรวม/ซื้อกิจการ",
+        "แม้ดูเหมือนเป็นเรื่องธุรกิจ แต่ส่งผลทางอ้อมต่อเกมและเทคโนโลยีได้ เช่น แนวทางลิขสิทธิ์ การกระจายคอนเทนต์ และทิศทางการลงทุนระยะยาวของค่ายต่าง ๆ",
+        "ต่อให้ยังไม่เปลี่ยนทันที ตลาดมักตอบสนองและเกิดการเจรจาต่อ ซึ่งกระทบแผนปล่อยผลงาน พาร์ทเนอร์ และกลยุทธ์แพลตฟอร์ม",
+        "สิ่งที่ควรจับตาคือขั้นต่อไปของการเจรจา ท่าทีด้านกฎหมาย/กำกับดูแล และผลต่อความพร้อมของคอนเทนต์/ลิขสิทธิ์ในอนาคต"
+      ]
+    },
+    "jp": {
+      "title": "ワーナーが提案を拒否—示唆される業界の動き",
+      "body": [
+        "提案の見直し案が拒否されたという報道は、大手メディア企業がM&Aに慎重であることを示唆します。",
+        "ゲームやテックにも間接的に影響し得ます。所有構造の変化は、ライセンス契約、配信の方針、長期ロードマップに波及しやすいからです。",
+        "短期的な変更がなくても、市場の反応や追加交渉が進むことで、リリース計画や提携、プラットフォーム戦略に影響が出る場合があります。",
+        "今後の注目点は交渉の継続有無、規制当局の動き、そしてカタログ提供やライセンスに関する方針変化です。"
+      ]
+    }
+  }
+}
