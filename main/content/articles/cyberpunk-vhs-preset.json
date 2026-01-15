@@ -1,0 +1,39 @@
+{
+  "id": "cyberpunk-vhs-preset",
+  "updatedAt": "2026-01-15",
+  "coverImage": "https://www.gamespark.jp/img/article/2026/01/15/161579/cyberpunk_vhs.jpg",
+  "source": {
+    "name": "Game*Spark",
+    "href": "https://www.gamespark.jp/article/2026/01/15/161579.html"
+  },
+  "tags": ["Mod", "Visual", "Cyberpunk 2077", "ReShade"],
+  "i18n": {
+    "en": {
+      "title": "Cyberpunk 2077 gets a VHS-style preset",
+      "body": [
+        "A VHS-style visual preset is making the rounds for Cyberpunk 2077, aiming for that retro tape vibe with a modern cyberpunk world.",
+        "The idea is simple: add analog-feeling imperfections—grain, slight blur, subtle distortion, and nostalgic color bleed—to transform the mood instantly.",
+        "This kind of preset is great for screenshots and short clips, especially if you want a stylized ‘recorded footage’ aesthetic rather than a clean, sharp image.",
+        "Tip: if the effect looks too strong, reduce the intensity of blur/grain first. You can keep the vibe without sacrificing readability during gameplay."
+      ]
+    },
+    "th": {
+      "title": "Cyberpunk 2077 ได้พรีเซ็ตภาพสไตล์ VHS",
+      "body": [
+        "มีพรีเซ็ตภาพแนว VHS สำหรับ Cyberpunk 2077 ที่ทำให้บรรยากาศเกมกลายเป็นฟีลเทปย้อนยุคทันที",
+        "หลัก ๆ คือเติมความ “อนาล็อก” เช่น grain, blur เล็กน้อย, distortion เบา ๆ และสีไหลแบบเทป ทำให้โทนภาพดูมีคาแรคเตอร์มากขึ้น",
+        "เหมาะกับสายถ่ายภาพ/ทำคลิปสั้น เพราะได้สไตล์เหมือนเป็นฟุตเทจที่ถูกบันทึกไว้ ไม่ใช่ภาพคมกริบแบบปกติ",
+        "ทิป: ถ้าเอฟเฟกต์แรงเกิน ให้ลด blur กับ grain ก่อน จะยังได้บรรยากาศ แต่ไม่ทำให้เล่นยาก"
+      ]
+    },
+    "jp": {
+      "title": "『サイバーパンク2077』にVHS風プリセットが登場",
+      "body": [
+        "『サイバーパンク2077』でVHS風の見た目を再現するプリセットが話題になっています。近未来の世界を“レトロなテープ映像”の質感に変える狙いです。",
+        "ノイズ（grain）、わずかなぼけ、軽い歪み、色にじみなど、アナログらしい不完全さを加えて雰囲気を一気に変えます。",
+        "スクリーンショットや短い動画に相性がよく、“記録映像”っぽいスタイルを作りたい人におすすめです。",
+        "強すぎる場合は、まずぼけとノイズ量を下げると雰囲気を保ちながら見やすさを確保できます。"
+      ]
+    }
+  }
+}
