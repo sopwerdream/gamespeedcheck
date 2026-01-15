@@ -4,7 +4,7 @@
     {
       "id": "hl-intel-pantherlake",
       "articleId": "intel-pantherlake-handheld",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q8SiFCBUeRmW6zALKHtGRn-1200-80.jpg",
+      "image": "https://raw.githubusercontent.com/sopwerdream/gamespeedcheck/refs/heads/main/main/content/articles/Intel/1.png",
       "tags": ["Hardware", "Handheld", "Intel"],
       "i18n": {
         "en": {
@@ -24,7 +24,7 @@
     {
       "id": "hl-cyberpunk-vhs",
       "articleId": "cyberpunk-vhs-preset",
-      "image": "https://www.gamespark.jp/img/article/2026/01/15/161579/cyberpunk_vhs.jpg",
+      "image": "https://raw.githubusercontent.com/sopwerdream/gamespeedcheck/refs/heads/main/main/content/articles/Image/cc1.png",
       "tags": ["Mod", "Visual", "Cyberpunk 2077"],
       "i18n": {
         "en": { "title": "Cyberpunk 2077 gets a VHS-style preset", "summary": "A ReShade preset brings retro VHS vibes—grain, blur, and nostalgic color bleed." },
